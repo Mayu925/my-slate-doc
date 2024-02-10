@@ -26,7 +26,7 @@ meta:
 # Introduction
 
 はじめての Slate です！
-**こんにちは!**
+**こんにちは！！**
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
